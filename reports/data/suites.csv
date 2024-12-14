@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2113","验证ecshop登录接口登录成功","testcases","Sat Dec 14 11:14:11 CST 2024","passed","Sat Dec 14 11:14:14 CST 2024","TestAllCase","test_all_case","",""
+"","2059","验证ecshop登录接口登录成功","testcases","Sat Dec 14 11:14:14 CST 2024","passed","Sat Dec 14 11:14:16 CST 2024","TestAllCase","test_all_case","",""
